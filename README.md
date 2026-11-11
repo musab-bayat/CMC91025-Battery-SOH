@@ -12,7 +12,7 @@ NASA source: https://www.nasa.gov/intelligent-systems-division/discovery-and-sys
 
 ## Requirements
 
-MATLAB with **Statistics and Machine Learning Toolbox** (tree ensembles, SVR, `shapley`) and **Deep Learning Toolbox** (LSTM). MATLAB version compatibility has **not yet been tested**; the analysis has not been executed in this preparation environment.
+MATLAB with **Statistics and Machine Learning Toolbox** (tree ensembles, SVR, `shapley`) and **Deep Learning Toolbox** (LSTM). 
 
 ## Run
 
